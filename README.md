@@ -1,5 +1,5 @@
 # Description of files
-Data and code to set up indicators for hospital mergers and acquisitions between 2010-2019.
+Data for hospital mergers and acquisitions between 2010-2019. Use collapse_strat_to_quarter.do to collapse the data to the hospital/year/quarter level.
 
 Update on: 05/05/2025
 - Rechecked each hospital consolidation record with the help of generative A.I., allowing for a wider breadth of searches.
