@@ -8,15 +8,15 @@ Please email [hyesung_oh@brown.edu](mailto:hyesung_oh@brown.edu) before download
 
 # Description of Files (v1)
 
-This version contains the data used to implement the analyses in Oh et al. (2025). The original dataset was constructed at the hospital/year/quarter level prior to the widespread use of generative AI tools. Post-publication, we expanded and refined the dataset to the hospital/year/month level, incorporating AI-assisted validation and corrections.
+This version contains the data used to implement the analyses in Oh et al. (2025). The original dataset was constructed at the hospital/year/quarter level BEFORE the widespread use of generative AI tools. Post-publication, we expanded and refined the dataset to the hospital/year/month level, incorporating AI-assisted validation and corrections. Please read the description of v2 below.
 
 ---
 
 # Description of Files (v2)
 
-This version provides data on hospital mergers and acquisitions from 2010–2019. Use the script `collapse_strat_to_quarter.do` to collapse the data to the hospital/year/quarter level.
+This version provides data on hospital mergers and acquisitions from 2010 to 2019. We expanded and refined the dataset to the hospital/year/month level, incorporating AI-assisted validation and corrections. Use the do file `collapse_strat_to_quarter.do` to collapse the data to the hospital/year/quarter level.
 
-To collapse to the hospital/year level, first check whether your hospitals of interest were involved in multiple deals in a single year. If so, determine which deal(s) to retain based on the purpose of your analysis.
+To collapse to the hospital/year level, first check whether your hospitals of interest were involved in multiple deals in a single year. If so, choose which deal(s) to retain based on the purpose of your analysis.
 
 ---
 
