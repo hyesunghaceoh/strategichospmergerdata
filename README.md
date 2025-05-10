@@ -12,7 +12,7 @@ This version contains the data used to implement the analyses in Oh et al. (2025
 
 ---
 
-# Description of Files (v2)
+# Description of Files (v2 -- post-publication improvments)
 
 This version provides data on hospital mergers and acquisitions from 2010 to 2019. We expanded and refined the dataset to the hospital/year/month level, incorporating AI-assisted validation and corrections. Use the do file `collapse_strat_to_quarter.do` to collapse the data to the hospital/year/quarter level.
 
