@@ -27,7 +27,7 @@ To collapse to the hospital/year level, first check whether your hospitals of in
 - Corrected and standardized the system ID variable  
 - Added or revised internet-based sources for deal documentation  
 - Reconciled redundant or ambiguous system ID changes
-- Please see the .do file "v2_db_generation.do" for the code used to implement these enhancements
+- Please see the .do file `v2_db_generation.do` to view the code used to implement these enhancements
 
 ---
 
