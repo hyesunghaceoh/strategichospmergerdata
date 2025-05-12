@@ -19,5 +19,5 @@ global output = "..\source" //Change, if needed
 
 use $source\strategic_ma_db.dta, clear
 gsort medicare_ccn year_qtr -source_completed
-collapse (mean) system_id = system_id_qtr (first) year medicare_ccn_str source_completed notes (max) bankruptcy system_exit system_split merger_of_equals target, by(medicare_ccn year_qtr)
+collapse (mean) system_id = system_id_qtr (first) year hrrcode medicare_ccn_str source_completed notes (max) bankruptcy system_exit system_split merger_of_equals target, by(medicare_ccn year_qtr)
 save $output\strat_ma_db_quarterly.dta, replace
