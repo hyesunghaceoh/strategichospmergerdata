@@ -6,7 +6,7 @@ Please email [hyesung_oh@brown.edu](mailto:hyesung_oh@brown.edu) before download
 
 ---
 
-# Description of Files (v1)
+# Description of Files (v1 -- use v2 for improved data)
 
 This version contains the data used to implement the analyses in Oh et al. (2025). The original dataset was constructed at the hospital/year/quarter level BEFORE the widespread use of generative AI tools. Post-publication, we expanded and refined the dataset to the hospital/year/month level, incorporating AI-assisted validation and corrections. Please read the description of v2 below.
 
