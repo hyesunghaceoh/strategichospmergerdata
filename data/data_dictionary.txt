@@ -1,0 +1,36 @@
+﻿*DATA DICTIONARY: Strategic Hospital Mergers & Acquisitions Database
+*Document prepared by: Hyesung Oh, PhD (Last updated: 05/05/2025)
+*************************************************************************
+
+Citation:
+*Oh, Hyesung, Vincent Mor, Daeho Kim, Andrew Foster, and Momotazur Rahman. 
+"Hospital Mergers and Acquisitions from 2010-2019: Creating a Valid Public Use Database." 
+Health Services Research Volume#, no. # (2025): page#s.*
+
+
+Update on: 05/05/2025
+
+- Rechecked each hospital consolidation record with the help of generative A.I., allowing for a wider breadth of searches.
+- Fixed system ID variable based on this review.
+- Included new or revised Internet sources for deals.
+- Reconciled redundant system ID changes (for facilities with ambiguous deal announcement/completion sources)
+
+*************************************************************************
+Data Dictionary
+*************************************************************************
+fac_name =             Name of facility according to Medicare Provider of Service file
+year =                 Observation year
+year_qtr =             Observation year/quarter (20101 for 2010/quarter1, 20102, 2010/quarter2...etc.)
+month =                Observation month
+medicare_ccn =         Medicare CMS Certification Number (numeric) that varies by facility
+medicare_ccn_str =     Medicare CMS Certification Number (string) that varies by facility
+system_id =            Internally generated system ID
+system_id_qtr =        System ID at the end of each year/qtr
+system_id_yr =         System ID at the end of each year
+source_completed =     URL of source describing system change
+target =               Hospital was target of acquisition
+merger_of_equals =     Hospital was part of a merger of equals
+bankruptcy =           AHA's system ID changed due to bankruptcy proceedings
+system_exit =          AHA's system ID changed due to a system exit
+system_split =         AHA's system ID changed due to a split/divestiture
+notes =                Other relevant notes
