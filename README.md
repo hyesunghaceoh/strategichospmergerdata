@@ -31,6 +31,15 @@ To collapse to the hospital/year level, first check whether your hospitals of in
 
 ---
 
+# Generating the `acquirer` variable
+
+- You can generate overall, within-market, and cross-market acquirer variables. 
+- **Overall**: By every system ID/time combination, generate the max of the target variable.
+- **Within-(HRR)Market**: By every system ID/HRR/time combination, generate the max of the target variable.
+- **Cross-(HRR)Market**: Set equal to 1 if acquirer == 1 & within_market_acquirer == 0
+
+---
+
 # Citation
 
 > Oh, Hyesung, Vincent Mor, Daeho Kim, Andrew Foster, and Momotazur Rahman. *"Hospital Mergers and Acquisitions from 2010–2019: Creating a Valid Public Use Database."* Health Services Research, Volume #, No. # (2025): page#s.
