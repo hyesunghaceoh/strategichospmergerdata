@@ -11,7 +11,7 @@ v1 file to a hospital/month/year-level v2 file.
 For example, if a hospital were acquired in June of 2014, this would mean it was acquired
 in the second quarter of 2014. When we expand from the quarter to the month level, 
 the month-level data would have the system ID change from the beginning of the second quarter
-(April through June). We corrected these misalignments to match the granularity of v2 file.
+(April through June). We corrected these misalignments to match the granularity of the v2 file.
 */
 
 ********************************************************************************
