@@ -3,6 +3,15 @@ Author: Hyesung (Hace) Oh
 Date: 05/12/2025
 
 The purpose of this .do file is to update the v1 Strategic Hospital M&A Database to v2.
+
+Most of the observation-level adjustments are due to aligning the change in the system ID
+with the month of the deal completion after expanding the hospital/quarter/year-level
+v1 file to a hospital/month/year-level v2 file. 
+
+For example, if a hospital were acquired in June of 2014, this would mean it was acquired
+in the second quarter of 2014. When we expand from the quarter to the month level, 
+the month-level data would have the system ID change from the beginning of the second quarter
+(April through June). We corrected these misalignments to match the granularity of v2 file.
 */
 
 ********************************************************************************
