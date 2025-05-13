@@ -2,7 +2,7 @@
 
 Please email [hyesung_oh@brown.edu](mailto:hyesung_oh@brown.edu) before downloading data from this repository. Please state your name, affiliation, and what you plan to use the data for. When using these data, please cite:
 
-> Oh, Hyesung, Vincent Mor, Daeho Kim, Andrew Foster, and Momotazur Rahman. *"Hospital Mergers and Acquisitions from 2010–2019: Creating a Valid Public Use Database."* Health Services Research, Volume #, No. # (2025): page#s.
+> Oh, H., Mor, V., Kim, D., Foster, A. and Rahman, M. (2025), Hospital Mergers and Acquisitions From 2010 to 2019: Creating a Valid Public Use Database. Health Serv Res e14642. https://doi.org/10.1111/1475-6773.14642
 
 ---
 
