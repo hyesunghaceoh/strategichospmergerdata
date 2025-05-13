@@ -22,7 +22,7 @@ To collapse to the hospital/year level, first check whether your hospitals of in
 
 # Update (as of 05/12/2025)
 
-- Expanded quarterly dataset to hospital/year granularity  
+- Expanded quarterly dataset to hospital/year/month granularity  
 - Validated each consolidation record using generative AI to enhance source coverage  
 - Corrected and standardized the system ID variable  
 - Added or revised internet-based sources for deal documentation  
