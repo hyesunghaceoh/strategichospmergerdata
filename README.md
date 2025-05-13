@@ -20,7 +20,7 @@ To collapse to the hospital/year level, first check whether your hospitals of in
 
 ---
 
-# Update (as of 05/05/2025)
+# Update (as of 05/12/2025)
 
 - Expanded quarterly dataset to hospital/year granularity  
 - Validated each consolidation record using generative AI to enhance source coverage  
