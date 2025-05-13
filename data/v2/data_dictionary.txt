@@ -1,5 +1,5 @@
 ﻿*DATA DICTIONARY: Strategic Hospital Mergers & Acquisitions Database
-*Document prepared by: Hyesung Oh, PhD (Last updated: 05/05/2025)
+*Document prepared by: Hyesung Oh, PhD (Last updated: 05/12/2025)
 *************************************************************************
 
 Citation:
@@ -8,7 +8,7 @@ Citation:
 Health Services Research Volume#, no. # (2025): page#s.*
 
 
-Update on: 05/05/2025
+Update on: 05/12/2025
 
 - Rechecked each hospital consolidation record with the help of generative A.I., allowing for a wider breadth of searches.
 - Fixed system ID variable based on this review.
