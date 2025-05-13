@@ -3,7 +3,8 @@
 *************************************************************************
 
 Citation:
-*Oh, H., Mor, V., Kim, D., Foster, A. and Rahman, M. (2025), Hospital Mergers and Acquisitions From 2010 to 2019: Creating a Valid Public Use Database. Health Serv Res e14642. https://doi.org/10.1111/1475-6773.14642*
+*Oh, H., Mor, V., Kim, D., Foster, A. and Rahman, M. (2025), Hospital Mergers and Acquisitions From 2010 to 2019: 
+Creating a Valid Public Use Database. Health Serv Res e14642. https://doi.org/10.1111/1475-6773.14642*
 
 
 Update on: 05/12/2025
