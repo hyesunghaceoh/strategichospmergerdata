@@ -1,3 +1,12 @@
+/*
+Author: Hyesung (Hace) Oh
+Date: 05/05/2025
+
+The purpose of this .do file is to update the v1 Strategic Hospital M&A Database to v2.
+*/
+
+********************************************************************************
+
 set more off
 clear all
 global sourcedir "P:\gsh2o\h2o\dissertation\Stata\source"
