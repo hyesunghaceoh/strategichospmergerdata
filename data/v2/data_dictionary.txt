@@ -21,7 +21,7 @@ Data Dictionary
 fac_name =             Name of facility according to Medicare Provider of Service file
 hrrcode =              Hospital Referral Region code
 year =                 Observation year
-year_qtr =             Observation year/quarter (20101 for 2010/quarter1, 20102, 2010/quarter2...etc.)
+year_qtr =             Observation year/quarter (20101 for 2010/quarter1, 20102 for 2010/quarter2...etc.)
 month =                Observation month
 medicare_ccn =         Medicare CMS Certification Number (numeric) that varies by facility
 medicare_ccn_str =     Medicare CMS Certification Number (string) that varies by facility
