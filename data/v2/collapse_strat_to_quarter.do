@@ -1,6 +1,6 @@
 /*
 Author: Hyesung Oh, PhD
-Date: 05/05/2025
+Date: 05/12/2025
 Email: hyesung_oh@brown.edu
 
 	This do file collapses the hospital/year/month-level Strategic Hospital
@@ -15,9 +15,10 @@ Email: hyesung_oh@brown.edu
 
 global source = "..\source" //Change, if needed
 global output = "..\source" //Change, if needed
+global version = "v2" //Change, if needed
 ********************************************************************************
 
-use $source\strategic_ma_db.dta, clear
+use $source\strategic_ma_db_$version.dta, clear
 gsort medicare_ccn year_qtr -source_completed
 collapse (mean) system_id = system_id_qtr (first) year hrrcode medicare_ccn_str source_completed notes (max) bankruptcy system_exit system_split merger_of_equals target, by(medicare_ccn year_qtr)
-save $output\strat_ma_db_quarterly.dta, replace
+save $output\strat_ma_db_quarterly_$version.dta, replace
